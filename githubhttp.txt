@@ -1,0 +1,2 @@
+HTTP:    https://github.com/JieHinCeng/git-demo.git
+SSH：    git@github.com:JieHinCeng/git-demo.git
